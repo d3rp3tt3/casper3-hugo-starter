@@ -2,7 +2,6 @@
 author = "Hugo Authors"
 date = 2020-04-17T17:06:13Z
 description = ""
-draft = true
 feature_image = ""
 tags = []
 title = "This is a test"
